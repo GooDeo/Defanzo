@@ -1,0 +1,349 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Blu G51",
+          "dpi": 0,
+          "general": 176,
+          "red_dot": 139,
+          "x2_scope": 185,
+          "x4_scope": 180,
+          "sniper_scope": 139,
+          "free_look": 117,
+          "trigger": 42
+        },
+        {
+          "name": "Blu G91 Pro",
+          "dpi": 0,
+          "general": 174,
+          "red_dot": 144,
+          "x2_scope": 187,
+          "x4_scope": 182,
+          "sniper_scope": 138,
+          "free_look": 122,
+          "trigger": 45
+        },
+        {
+          "name": "Blu J6",
+          "dpi": 0,
+          "general": 177,
+          "red_dot": 146,
+          "x2_scope": 187,
+          "x4_scope": 187,
+          "sniper_scope": 130,
+          "free_look": 129,
+          "trigger": 42
+        },
+        {
+          "name": "Blu M8L Plus",
+          "dpi": 0,
+          "general": 176,
+          "red_dot": 148,
+          "x2_scope": 185,
+          "x4_scope": 181,
+          "sniper_scope": 103,
+          "free_look": 119,
+          "trigger": 39
+        },
+        {
+          "name": "Blu G71L",
+          "dpi": 0,
+          "general": 178,
+          "red_dot": 142,
+          "x2_scope": 187,
+          "x4_scope": 186,
+          "sniper_scope": 106,
+          "free_look": 134,
+          "trigger": 49
+        },
+        {
+          "name": "Blu 8L",
+          "dpi": 0,
+          "general": 173,
+          "red_dot": 141,
+          "x2_scope": 190,
+          "x4_scope": 188,
+          "sniper_scope": 117,
+          "free_look": 110,
+          "trigger": 51
+        },
+        {
+          "name": "Blu G50",
+          "dpi": 0,
+          "general": 176,
+          "red_dot": 142,
+          "x2_scope": 187,
+          "x4_scope": 186,
+          "sniper_scope": 101,
+          "free_look": 117,
+          "trigger": 48
+        },
+        {
+          "name": "Blu J9L",
+          "dpi": 0,
+          "general": 175,
+          "red_dot": 146,
+          "x2_scope": 189,
+          "x4_scope": 181,
+          "sniper_scope": 115,
+          "free_look": 124,
+          "trigger": 51
+        },
+        {
+          "name": "Blu G91",
+          "dpi": 0,
+          "general": 174,
+          "red_dot": 140,
+          "x2_scope": 184,
+          "x4_scope": 181,
+          "sniper_scope": 100,
+          "free_look": 116,
+          "trigger": 49
+        },
+        {
+          "name": "Blu J5L",
+          "dpi": 0,
+          "general": 175,
+          "red_dot": 142,
+          "x2_scope": 181,
+          "x4_scope": 189,
+          "sniper_scope": 122,
+          "free_look": 115,
+          "trigger": 47
+        },
+        {
+          "name": "Blu S91",
+          "dpi": 0,
+          "general": 178,
+          "red_dot": 140,
+          "x2_scope": 183,
+          "x4_scope": 190,
+          "sniper_scope": 98,
+          "free_look": 125,
+          "trigger": 52
+        },
+        {
+          "name": "Blu G51 Plus",
+          "dpi": 0,
+          "general": 173,
+          "red_dot": 138,
+          "x2_scope": 190,
+          "x4_scope": 188,
+          "sniper_scope": 102,
+          "free_look": 120,
+          "trigger": 45
+        },
+        {
+          "name": "Blu S10",
+          "dpi": 0,
+          "general": 178,
+          "red_dot": 147,
+          "x2_scope": 189,
+          "x4_scope": 186,
+          "sniper_scope": 112,
+          "free_look": 113,
+          "trigger": 51
+        },
+        {
+          "name": "Blu Studio X10",
+          "dpi": 0,
+          "general": 178,
+          "red_dot": 140,
+          "x2_scope": 187,
+          "x4_scope": 181,
+          "sniper_scope": 127,
+          "free_look": 118,
+          "trigger": 49
+        },
+        {
+          "name": "Blu S10 Pro",
+          "dpi": 0,
+          "general": 174,
+          "red_dot": 146,
+          "x2_scope": 184,
+          "x4_scope": 183,
+          "sniper_scope": 102,
+          "free_look": 127,
+          "trigger": 52
+        },
+        {
+          "name": "Blu G61",
+          "dpi": 0,
+          "general": 173,
+          "red_dot": 140,
+          "x2_scope": 188,
+          "x4_scope": 187,
+          "sniper_scope": 139,
+          "free_look": 110,
+          "trigger": 47
+        },
+        {
+          "name": "Blu C6 2019",
+          "dpi": 0,
+          "general": 177,
+          "red_dot": 145,
+          "x2_scope": 187,
+          "x4_scope": 186,
+          "sniper_scope": 122,
+          "free_look": 113,
+          "trigger": 51
+        },
+        {
+          "name": "Blu G70",
+          "dpi": 0,
+          "general": 176,
+          "red_dot": 144,
+          "x2_scope": 189,
+          "x4_scope": 184,
+          "sniper_scope": 114,
+          "free_look": 119,
+          "trigger": 42
+        },
+        {
+          "name": "Blu G71",
+          "dpi": 0,
+          "general": 175,
+          "red_dot": 146,
+          "x2_scope": 187,
+          "x4_scope": 189,
+          "sniper_scope": 116,
+          "free_look": 119,
+          "trigger": 49
+        },
+        {
+          "name": "Blu G",
+          "dpi": 0,
+          "general": 178,
+          "red_dot": 139,
+          "x2_scope": 181,
+          "x4_scope": 188,
+          "sniper_scope": 110,
+          "free_look": 123,
+          "trigger": 49
+        },
+        {
+          "name": "Blu G5 Plus",
+          "dpi": 0,
+          "general": 173,
+          "red_dot": 143,
+          "x2_scope": 186,
+          "x4_scope": 190,
+          "sniper_scope": 98,
+          "free_look": 124,
+          "trigger": 47
+        },
+        {
+          "name": "Blu V5",
+          "dpi": 0,
+          "general": 174,
+          "red_dot": 140,
+          "x2_scope": 184,
+          "x4_scope": 180,
+          "sniper_scope": 125,
+          "free_look": 110,
+          "trigger": 52
+        },
+        {
+          "name": "Blu G6",
+          "dpi": 0,
+          "general": 178,
+          "red_dot": 141,
+          "x2_scope": 187,
+          "x4_scope": 183,
+          "sniper_scope": 118,
+          "free_look": 119,
+          "trigger": 42
+        },
+        {
+          "name": "Blu G8",
+          "dpi": 0,
+          "general": 175,
+          "red_dot": 147,
+          "x2_scope": 185,
+          "x4_scope": 182,
+          "sniper_scope": 123,
+          "free_look": 110,
+          "trigger": 52
+        },
+        {
+          "name": "Blu C6L",
+          "dpi": 0,
+          "general": 176,
+          "red_dot": 148,
+          "x2_scope": 187,
+          "x4_scope": 180,
+          "sniper_scope": 111,
+          "free_look": 118,
+          "trigger": 49
+        },
+        {
+          "name": "Blu C5 2019",
+          "dpi": 0,
+          "general": 177,
+          "red_dot": 142,
+          "x2_scope": 180,
+          "x4_scope": 182,
+          "sniper_scope": 126,
+          "free_look": 133,
+          "trigger": 51
+        },
+        {
+          "name": "Blu C7",
+          "dpi": 0,
+          "general": 178,
+          "red_dot": 145,
+          "x2_scope": 180,
+          "x4_scope": 187,
+          "sniper_scope": 113,
+          "free_look": 134,
+          "trigger": 44
+        },
+        {
+          "name": "Blu G50 Plus",
+          "dpi": 0,
+          "general": 175,
+          "red_dot": 142,
+          "x2_scope": 181,
+          "x4_scope": 184,
+          "sniper_scope": 119,
+          "free_look": 128,
+          "trigger": 45
+        },
+        {
+          "name": "Blu G50 Mega",
+          "dpi": 0,
+          "general": 174,
+          "red_dot": 145,
+          "x2_scope": 188,
+          "x4_scope": 186,
+          "sniper_scope": 101,
+          "free_look": 132,
+          "trigger": 42
+        },
+        {
+          "name": "Blu J4",
+          "dpi": 0,
+          "general": 175,
+          "red_dot": 145,
+          "x2_scope": 183,
+          "x4_scope": 183,
+          "sniper_scope": 127,
+          "free_look": 114,
+          "trigger": 47
+        },
+        {
+          "name": "Blu J7L",
+          "dpi": 0,
+          "general": 174,
+          "red_dot": 148,
+          "x2_scope": 188,
+          "x4_scope": 186,
+          "sniper_scope": 107,
+          "free_look": 115,
+          "trigger": 42
+        }
+      ]
+    }
+  ]
+}

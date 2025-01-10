@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Asus Zenfone Max Pro",
+          "dpi": 0,
+          "general": 175,
+          "red_dot": 138,
+          "x2_scope": 188,
+          "x4_scope": 181,
+          "sniper_scope": 116,
+          "free_look": 113,
+          "trigger": 39
+        },
+        {
+          "name": "Asus Zenfone L1",
+          "dpi": 0,
+          "general": 178,
+          "red_dot": 138,
+          "x2_scope": 187,
+          "x4_scope": 183,
+          "sniper_scope": 128,
+          "free_look": 123,
+          "trigger": 42
+        },
+        {
+          "name": "Asus Zenfone 4 Selfie",
+          "dpi": 0,
+          "general": 175,
+          "red_dot": 138,
+          "x2_scope": 187,
+          "x4_scope": 185,
+          "sniper_scope": 126,
+          "free_look": 111,
+          "trigger": 45
+        },
+        {
+          "name": "Asus Zenfone 5",
+          "dpi": 0,
+          "general": 176,
+          "red_dot": 142,
+          "x2_scope": 186,
+          "x4_scope": 186,
+          "sniper_scope": 101,
+          "free_look": 112,
+          "trigger": 44
+        },
+        {
+          "name": "Asus Zenfone Max M3",
+          "dpi": 0,
+          "general": 175,
+          "red_dot": 143,
+          "x2_scope": 189,
+          "x4_scope": 181,
+          "sniper_scope": 104,
+          "free_look": 120,
+          "trigger": 41
+        },
+        {
+          "name": "Asus Zenfone Max",
+          "dpi": 0,
+          "general": 175,
+          "red_dot": 139,
+          "x2_scope": 189,
+          "x4_scope": 190,
+          "sniper_scope": 128,
+          "free_look": 125,
+          "trigger": 40
+        },
+        {
+          "name": "Asus Zenfone 4",
+          "dpi": 0,
+          "general": 173,
+          "red_dot": 144,
+          "x2_scope": 186,
+          "x4_scope": 187,
+          "sniper_scope": 123,
+          "free_look": 119,
+          "trigger": 42
+        },
+        {
+          "name": "Asus Zenfone Max Pro M1",
+          "dpi": 0,
+          "general": 174,
+          "red_dot": 141,
+          "x2_scope": 190,
+          "x4_scope": 183,
+          "sniper_scope": 128,
+          "free_look": 127,
+          "trigger": 50
+        },
+        {
+          "name": "Asus Zenfone Max Pro M2",
+          "dpi": 0,
+          "general": 177,
+          "red_dot": 144,
+          "x2_scope": 181,
+          "x4_scope": 183,
+          "sniper_scope": 132,
+          "free_look": 116,
+          "trigger": 46
+        },
+        {
+          "name": "Asus Zenfone 5 Selfie Pro",
+          "dpi": 0,
+          "general": 173,
+          "red_dot": 141,
+          "x2_scope": 180,
+          "x4_scope": 181,
+          "sniper_scope": 127,
+          "free_look": 127,
+          "trigger": 42
+        },
+        {
+          "name": "Asus Zenfone 2",
+          "dpi": 0,
+          "general": 176,
+          "red_dot": 139,
+          "x2_scope": 180,
+          "x4_scope": 189,
+          "sniper_scope": 124,
+          "free_look": 117,
+          "trigger": 51
+        },
+        {
+          "name": "Asus Zenfone Max Plus M2",
+          "dpi": 0,
+          "general": 176,
+          "red_dot": 140,
+          "x2_scope": 180,
+          "x4_scope": 190,
+          "sniper_scope": 118,
+          "free_look": 113,
+          "trigger": 39
+        },
+        {
+          "name": "Asus Zenfone Shot Plus",
+          "dpi": 0,
+          "general": 175,
+          "red_dot": 140,
+          "x2_scope": 180,
+          "x4_scope": 190,
+          "sniper_scope": 100,
+          "free_look": 114,
+          "trigger": 52
+        },
+        {
+          "name": "Asus Zenfone 3",
+          "dpi": 0,
+          "general": 176,
+          "red_dot": 142,
+          "x2_scope": 187,
+          "x4_scope": 187,
+          "sniper_scope": 115,
+          "free_look": 111,
+          "trigger": 52
+        },
+        {
+          "name": "Asus Zenfone 8",
+          "dpi": 0,
+          "general": 175,
+          "red_dot": 138,
+          "x2_scope": 183,
+          "x4_scope": 187,
+          "sniper_scope": 130,
+          "free_look": 128,
+          "trigger": 49
+        },
+        {
+          "name": "Asus Zenfone Live L2",
+          "dpi": 0,
+          "general": 174,
+          "red_dot": 146,
+          "x2_scope": 183,
+          "x4_scope": 188,
+          "sniper_scope": 128,
+          "free_look": 125,
+          "trigger": 41
+        }
+      ]
+    }
+  ]
+}

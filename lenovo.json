@@ -1,0 +1,250 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Lenovo K8 Note",
+          "dpi": 0,
+          "general": 177,
+          "red_dot": 58,
+          "x2_scope": 187,
+          "x4_scope": 188,
+          "sniper_scope": 114,
+          "free_look": 117,
+          "trigger": 43
+        },
+        {
+          "name": "Lenovo Tab M10 LTE",
+          "dpi": 0,
+          "general": 177,
+          "red_dot": 141,
+          "x2_scope": 185,
+          "x4_scope": 188,
+          "sniper_scope": 106,
+          "free_look": 117,
+          "trigger": 41
+        },
+        {
+          "name": "Lenovo Tab E7",
+          "dpi": 0,
+          "general": 176,
+          "red_dot": 144,
+          "x2_scope": 182,
+          "x4_scope": 185,
+          "sniper_scope": 129,
+          "free_look": 120,
+          "trigger": 51
+        },
+        {
+          "name": "Lenovo Tab V7",
+          "dpi": 0,
+          "general": 174,
+          "red_dot": 144,
+          "x2_scope": 184,
+          "x4_scope": 180,
+          "sniper_scope": 127,
+          "free_look": 119,
+          "trigger": 51
+        },
+        {
+          "name": "Lenovo Tab M10",
+          "dpi": 0,
+          "general": 177,
+          "red_dot": 148,
+          "x2_scope": 190,
+          "x4_scope": 188,
+          "sniper_scope": 109,
+          "free_look": 118,
+          "trigger": 45
+        },
+        {
+          "name": "Lenovo Tab 7 Plus",
+          "dpi": 0,
+          "general": 175,
+          "red_dot": 148,
+          "x2_scope": 188,
+          "x4_scope": 181,
+          "sniper_scope": 138,
+          "free_look": 130,
+          "trigger": 53
+        },
+        {
+          "name": "Lenovo Z5s",
+          "dpi": 0,
+          "general": 173,
+          "red_dot": 146,
+          "x2_scope": 181,
+          "x4_scope": 190,
+          "sniper_scope": 123,
+          "free_look": 122,
+          "trigger": 52
+        },
+        {
+          "name": "Lenovo Tab M10 Plus",
+          "dpi": 0,
+          "general": 177,
+          "red_dot": 142,
+          "x2_scope": 184,
+          "x4_scope": 185,
+          "sniper_scope": 107,
+          "free_look": 131,
+          "trigger": 41
+        },
+        {
+          "name": "Lenovo Tab M8",
+          "dpi": 0,
+          "general": 173,
+          "red_dot": 138,
+          "x2_scope": 185,
+          "x4_scope": 180,
+          "sniper_scope": 134,
+          "free_look": 119,
+          "trigger": 42
+        },
+        {
+          "name": "Lenovo Tab M10 TB-X505L",
+          "dpi": 0,
+          "general": 177,
+          "red_dot": 138,
+          "x2_scope": 184,
+          "x4_scope": 186,
+          "sniper_scope": 129,
+          "free_look": 131,
+          "trigger": 46
+        },
+        {
+          "name": "Lenovo Tab M10 HD",
+          "dpi": 0,
+          "general": 174,
+          "red_dot": 146,
+          "x2_scope": 189,
+          "x4_scope": 181,
+          "sniper_scope": 80,
+          "free_look": 114,
+          "trigger": 42
+        },
+        {
+          "name": "Lenovo Smart Tab M10",
+          "dpi": 0,
+          "general": 173,
+          "red_dot": 138,
+          "x2_scope": 183,
+          "x4_scope": 190,
+          "sniper_scope": 125,
+          "free_look": 111,
+          "trigger": 47
+        },
+        {
+          "name": "Lenovo K6",
+          "dpi": 0,
+          "general": 175,
+          "red_dot": 143,
+          "x2_scope": 185,
+          "x4_scope": 189,
+          "sniper_scope": 102,
+          "free_look": 127,
+          "trigger": 48
+        },
+        {
+          "name": "Lenovo Tab M7",
+          "dpi": 0,
+          "general": 176,
+          "red_dot": 147,
+          "x2_scope": 188,
+          "x4_scope": 182,
+          "sniper_scope": 110,
+          "free_look": 111,
+          "trigger": 46
+        },
+        {
+          "name": "Lenovo Tab P11",
+          "dpi": 0,
+          "general": 176,
+          "red_dot": 144,
+          "x2_scope": 183,
+          "x4_scope": 182,
+          "sniper_scope": 107,
+          "free_look": 114,
+          "trigger": 53
+        },
+        {
+          "name": "Lenovo TB-85F",
+          "dpi": 0,
+          "general": 177,
+          "red_dot": 141,
+          "x2_scope": 188,
+          "x4_scope": 182,
+          "sniper_scope": 126,
+          "free_look": 127,
+          "trigger": 50
+        },
+        {
+          "name": "Lenovo P70",
+          "dpi": 0,
+          "general": 175,
+          "red_dot": 142,
+          "x2_scope": 185,
+          "x4_scope": 182,
+          "sniper_scope": 101,
+          "free_look": 125,
+          "trigger": 46
+        },
+        {
+          "name": "Lenovo K5 Play",
+          "dpi": 0,
+          "general": 173,
+          "red_dot": 139,
+          "x2_scope": 187,
+          "x4_scope": 184,
+          "sniper_scope": 106,
+          "free_look": 135,
+          "trigger": 49
+        },
+        {
+          "name": "Lenovo Vive K6",
+          "dpi": 0,
+          "general": 173,
+          "red_dot": 144,
+          "x2_scope": 187,
+          "x4_scope": 190,
+          "sniper_scope": 100,
+          "free_look": 119,
+          "trigger": 39
+        },
+        {
+          "name": "Lenovo K8 Plus",
+          "dpi": 0,
+          "general": 177,
+          "red_dot": 143,
+          "x2_scope": 180,
+          "x4_scope": 184,
+          "sniper_scope": 99,
+          "free_look": 127,
+          "trigger": 39
+        },
+        {
+          "name": "Lenovo Z6 Lite",
+          "dpi": 0,
+          "general": 175,
+          "red_dot": 142,
+          "x2_scope": 190,
+          "x4_scope": 184,
+          "sniper_scope": 119,
+          "free_look": 114,
+          "trigger": 48
+        },
+        {
+          "name": "Lenovo K5 Play + DPI",
+          "dpi": 486,
+          "general": 177,
+          "red_dot": 148,
+          "x2_scope": 190,
+          "x4_scope": 189,
+          "sniper_scope": 125,
+          "free_look": 122,
+          "trigger": 50
+        }
+      ]
+    }
+  ]
+}

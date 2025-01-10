@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "details": [
+        {
+          "name": "Itel S23",
+          "dpi": 0,
+          "general": 173,
+          "red_dot": 144,
+          "x2_scope": 183,
+          "x4_scope": 186,
+          "sniper_scope": 136,
+          "free_look": 116,
+          "trigger": 49
+        },
+        {
+          "name": "Itel A16 Plus",
+          "dpi": 0,
+          "general": 178,
+          "red_dot": 144,
+          "x2_scope": 183,
+          "x4_scope": 183,
+          "sniper_scope": 115,
+          "free_look": 118,
+          "trigger": 40
+        },
+        {
+          "name": "Itel P37 Pro",
+          "dpi": 0,
+          "general": 178,
+          "red_dot": 144,
+          "x2_scope": 187,
+          "x4_scope": 182,
+          "sniper_scope": 111,
+          "free_look": 110,
+          "trigger": 40
+        },
+        {
+          "name": "Itel A58 Pro",
+          "dpi": 0,
+          "general": 173,
+          "red_dot": 139,
+          "x2_scope": 182,
+          "x4_scope": 181,
+          "sniper_scope": 124,
+          "free_look": 127,
+          "trigger": 46
+        },
+        {
+          "name": "Itel A60s",
+          "dpi": 0,
+          "general": 174,
+          "red_dot": 145,
+          "x2_scope": 181,
+          "x4_scope": 185,
+          "sniper_scope": 130,
+          "free_look": 119,
+          "trigger": 45
+        },
+        {
+          "name": "Itel A49",
+          "dpi": 0,
+          "general": 173,
+          "red_dot": 138,
+          "x2_scope": 180,
+          "x4_scope": 183,
+          "sniper_scope": 116,
+          "free_look": 120,
+          "trigger": 53
+        },
+        {
+          "name": "Itel Vision 2S",
+          "dpi": 0,
+          "general": 174,
+          "red_dot": 145,
+          "x2_scope": 182,
+          "x4_scope": 181,
+          "sniper_scope": 123,
+          "free_look": 129,
+          "trigger": 46
+        },
+        {
+          "name": "Itel L6006",
+          "dpi": 0,
+          "general": 177,
+          "red_dot": 142,
+          "x2_scope": 180,
+          "x4_scope": 184,
+          "sniper_scope": 113,
+          "free_look": 113,
+          "trigger": 53
+        }
+      ]
+    }
+  ]
+}
